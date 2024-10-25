@@ -1,0 +1,5 @@
+.myCanvas {
+    border: 1px solid #000;
+    width: 640px; /* 幅を指定 */
+    height: 480px; /* 高さを指定 */
+}
